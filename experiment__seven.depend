@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604923825 source:d:\c homework\experiment__seven\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
